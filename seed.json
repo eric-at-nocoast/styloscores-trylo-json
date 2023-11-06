@@ -1,0 +1,2202 @@
+[
+    {
+      "comments": [
+        {
+          "id": 1,
+          "type": "Comment",
+          "body": "What is Stylo Scores?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "type": "Comment",
+          "body": "Stylo Scores is a feature in Zendesk that allows you to track and analyze the performance and productivity of your support agents. It provides a visual representation of key metrics, such as response time, resolution time, customer satisfaction, and more. With Stylo Scores, you can gain valuable insights to improve your support team's efficiency and effectiveness.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 3,
+          "type": "Comment",
+          "body": "How can I access Stylo Scores?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 4,
+          "type": "Comment",
+          "body": "To access Stylo Scores, log in to your Zendesk account and navigate to the reporting section. Click on the Stylo Scores tab to view the dashboard. From there, you can customize the metrics and time range to analyze the performance of your support agents.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 5,
+          "type": "Comment",
+          "body": "Can I customize the metrics in Stylo Scores?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        }
+      ],
+      "id": "generated-id-1"
+    },
+    {
+      "comments": [
+        {
+          "id": 1,
+          "type": "Comment",
+          "body": "What is the Use My Input feature of Stylo Assist?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "type": "Comment",
+          "body": "The Use My Input feature of Stylo Assist is a powerful tool that allows users to merge their knowledge with AI to generate complete, accurate, and personalized ticket responses in an instant.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 3,
+          "type": "Comment",
+          "body": "How does the Use My Input feature work?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 4,
+          "type": "Comment",
+          "body": "To use the Use My Input feature, simply input the necessary information and click Write Reply. Stylo Assist will then generate a thorough and complete answer based on the input.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 5,
+          "type": "Comment",
+          "body": "Can I edit the generated text?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        }
+      ],
+      "id": "generated-id-2"
+    },
+    {
+      "comments": [
+        {
+          "id": 1,
+          "type": "Comment",
+          "body": "Do I need to train Stylo in any way?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "type": "Comment",
+          "body": "No, Stylo does not require any training or setup to start using it. It has been pre-trained on 27 terabytes of text, representing most of the internet. It continuously learns as new concepts, words, or linguistic oddities are added to the model. However, you have the ability to tailor and adjust Stylo's responses through the Knowledge Center and Brand Settings.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 3,
+          "type": "Comment",
+          "body": "So, can I customize Stylo's responses according to my brand's style and tone?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 4,
+          "type": "Comment",
+          "body": "Absolutely, you can tailor and adjust the responses of Stylo according to your brand's preferences using the Brand Settings. That way, it will be more aligned with your business.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 5,
+          "type": "Comment",
+          "body": "That sounds great! How can I access these Brand Settings to make the changes?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        }
+      ],
+      "id": "generated-id-3"
+    },
+    {
+      "comments": [
+        {
+          "id": 1,
+          "type": "Comment",
+          "body": "How long does it take to set up Stylo in Zendesk Support?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "type": "Comment",
+          "body": "Getting started with Stylo takes a few minutes. Here are the steps:  1. Download the Stylo app from the Zendesk Support app marketplace. 2. Accept the API access and online terms by clicking on the Stylo Smile icon. 3. Use the generative AI assistant by clicking the Stylo Smile icon on the ticket text editor. 4. After granting API access, Stylo will read incoming support tickets, update custom fields, and display score updates on the ticket view app.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 3,
+          "type": "Comment",
+          "body": "What if I run into issues while setting up?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 4,
+          "type": "Comment",
+          "body": "Our support team is always ready to assist. You can reach out to us through our customer service portal or via email. Just come on back and we'll be happy to help",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 5,
+          "type": "Comment",
+          "body": "What are the system requirements to install Stylo?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        }
+      ],
+      "id": "generated-id-4"
+    },
+    {
+      "comments": [
+        {
+          "id": 1,
+          "type": "Comment",
+          "body": "How is Stylo different than other AI tools?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "type": "Comment",
+          "body": "Stylo uses a proprietary machine learning model to accurately summarize ticket issues, find answers from the Stylo Knowledge Center, and generate a unique message for customers. It also offers custom sentiment scores, intelligent ticket prioritization, and smart reporting. Stylo is fast, secure, and accurate, providing ultimate visibility into Support team operations. Unlike other tools, Stylo's pre-trained model eliminates the need for extensive training to understand customer intentions and emotional state.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 3,
+          "type": "Comment",
+          "body": "That's interesting. Could you highlight more on how the custom sentiment scores work?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 4,
+          "type": "Comment",
+          "body": "Sure! The custom sentiment scores in Stylo analyze the tone of communication in tickets. It rates the emotions in each ticket, thereby giving you an idea of how happy, sad, or angry a customer might be. This can be leveraged to prioritize customer concerns more efficiently.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 5,
+          "type": "Comment",
+          "body": "And what about smart reporting? How does that work?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        }
+      ],
+      "id": "generated-id-5"
+    },
+    {
+      "comments": [
+        {
+          "id": 1,
+          "type": "Comment",
+          "body": "What does Stylo do in Zendesk Support?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "type": "Comment",
+          "body": "Stylo's AI integration runs in the background and reads each message to understand the person's intention and emotion when a customer creates a ticket. It provides frustration, urgency, and delight ratings, as well as a predictive CSAT rating.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 3,
+          "type": "Comment",
+          "body": "Can you tell me how does Stylo provide these scores in Zendesk Support?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 4,
+          "type": "Comment",
+          "body": "Stylo provides scores on the right side of the ticket in the app window, which update each time the customer creates or updates the ticket with messages. These scores represent frustration, urgency, and delight ratings. There is also a predictive CSAT rating available on the left side in a ticket field.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 5,
+          "type": "Comment",
+          "body": "What are the custom Stylo fields in Zendesk Support?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        }
+      ],
+      "id": "generated-id-6"
+    },
+    {
+      "comments": [
+        {
+          "id": 1,
+          "type": "Comment",
+          "body": "How can I send notifications to Slack from Stylo Score updates in Zendesk Support?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "type": "Comment",
+          "body": "You can use the free Zendesk/Slack integration or integration tools like Zapier or Workato to send notifications to Slack from Stylo Score updates in Zendesk Support. Alternatively, you can create a Zendesk Target to send an email that Slack can ingest and produce a specific notification. For detailed instructions on setting up the integration, please refer to the article.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 3,
+          "type": "Comment",
+          "body": "What are some examples of how I can use Stylo Scores and Slack notifications?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 4,
+          "type": "Comment",
+          "body": "Some examples of how you can use Stylo Scores and Slack notifications include: 1. Notifying a private leadership channel when a very angry customer sends a ticket or when the frustration level of a ticket increases by 5 or more points. 2. Notifying the entire support team when there is a high frustration change on a ticket to catch problems early. 3. Notifying the customer success or account management team in a channel whenever customers show high frustration or are particularly happy about an issue, feature, team, person, or the whole organization. 4. Celebrating positive feedback by sending a message to a channel whenever there is a Delight/Delight Change increase of 5 or more points.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 5,
+          "type": "Comment",
+          "body": "What information is included in the Slack notifications?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        }
+      ],
+      "id": "generated-id-7"
+    },
+    {
+      "comments": [
+        {
+          "id": 1,
+          "type": "Comment",
+          "body": "What security measures does Stylo have in place?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "type": "Comment",
+          "body": "Stylo has implemented several security measures to ensure the safety of your information. These include SOC II Type II certification, annual penetration tests, PII masking, continuous monitoring, data center and network security, application security, authentication system, penetration tests and vulnerability scanning, compliance and privacy support, system security, data security and privacy, security policies, third-party services assessment, and DDoS protection.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 3,
+          "type": "Comment",
+          "body": "That sounds comprehensive. Can you explain more about the SOC II Type II certification?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 4,
+          "type": "Comment",
+          "body": "SOC II Type II certification is an independent validation of compliance with industry best practices in information security. Stylo has received this certification.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 5,
+          "type": "Comment",
+          "body": "Where can I find more information about Stylo's security measures?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        }
+      ],
+      "id": "generated-id-8"
+    },
+    {
+      "comments": [
+        {
+          "id": 1,
+          "type": "Comment",
+          "body": "What is Stylo Assist?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "type": "Comment",
+          "body": "Stylo Assist is an AI assistant designed to help support teams understand customer requests, identify problems in tickets, and generate ideal text responses.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 3,
+          "type": "Comment",
+          "body": "How does Stylo Assist work?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 4,
+          "type": "Comment",
+          "body": "Stylo Assist uses a natural language processing model in combination with ChatGPT to generate responses. It can create responses from scratch or incorporate input from agents.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 5,
+          "type": "Comment",
+          "body": "How can I activate Stylo Assist?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        }
+      ],
+      "id": "generated-id-9"
+    },
+    {
+      "comments": [
+        {
+          "id": 1,
+          "type": "Comment",
+          "body": "What is the Stylo Knowledge Center?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "type": "Comment",
+          "body": "The Stylo Knowledge Center is a data warehouse of question/answer pairs. It serves as an automated knowledge engine that combines question and answer pairs from the Help Center in Zendesk Guide and manually-entered pairs to provide logical answers to commonly asked questions.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 3,
+          "type": "Comment",
+          "body": "What does the Stylo Knowledge Center do?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 4,
+          "type": "Comment",
+          "body": "The Stylo Knowledge Center enhances Stylo's responses by providing accurate and up-to-date information. It informs and refines the responses generated by Stylo, ensuring consistency and high-quality answers.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 5,
+          "type": "Comment",
+          "body": "How does the Stylo Knowledge Center work?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        }
+      ],
+      "id": "generated-id-10"
+    },
+    {
+      "comments": [
+        {
+          "id": 1,
+          "type": "Comment",
+          "body": "How can I create a report that looks like the provided screenshot?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "type": "Comment",
+          "body": "To create a report that looks like the provided screenshot, follow the steps outlined in the article. The article provides detailed instructions on creating bullet charts, KPI charts, and table charts for various metrics. It also explains how to build custom metrics and configure the charts. Refer to the article for step-by-step instructions.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 3,
+          "type": "Comment",
+          "body": "What is the purpose of the Stylo Scores?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 4,
+          "type": "Comment",
+          "body": "The purpose of the Stylo Scores is to identify trends in customer frustration and take immediate actions to prevent customer churn. The provided article explains how to create bullet charts for scores, KPI charts, and table charts to measure different metrics. It also demonstrates how to use Zendesk Explore to build these charts and create custom calculated metrics. Refer to the article for more details.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 5,
+          "type": "Comment",
+          "body": "How can I identify the most frustrated customers who may churn?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        }
+      ],
+      "id": "generated-id-11"
+    },
+    {
+      "comments": [
+        {
+          "id": 1,
+          "type": "Comment",
+          "body": "What areas does Stylo update when a ticket is updated in Zendesk Support?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "type": "Comment",
+          "body": "Stylo updates Frustration, Urgency, and Delight on the ticket app view on the right (blue box in the image). It also updates custom fields that have been added to the ticket forms on the left (red box). Additionally, Stylo updates fields that are not necessarily visible on the ticket forms (purple box in the middle).",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 3,
+          "type": "Comment",
+          "body": "Do I need to add Stylo custom fields to my ticket forms for Stylo to update all its fields?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 4,
+          "type": "Comment",
+          "body": "No, you don't necessarily need to add Stylo custom fields to your ticket forms. Stylo updates all its fields, including custom fields, even if they are not added to the ticket forms.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 5,
+          "type": "Comment",
+          "body": "How can I make sure a trigger or automation only fires once?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        }
+      ],
+      "id": "generated-id-12"
+    },
+    {
+      "comments": [
+        {
+          "id": 1,
+          "type": "Comment",
+          "body": "How does Stylo Predictive CSAT work?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "type": "Comment",
+          "body": "Stylo Predictive CSAT is a way to measure customer satisfaction without sending a survey. It uses a combination of data points such as the language used by the customer, the context of the messages, the number of interactions on the ticket, the emotional state of the customer, and the time to reply/resolve the issue. It begins calculating shortly after the ticket is created and can produce results on the first customer message if there is enough context provided, but can take up to 3 interactions before it shows a score.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 3,
+          "type": "Comment",
+          "body": "Interesting. How can I see P-CSAT in tickets?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 4,
+          "type": "Comment",
+          "body": "To see P-CSAT in tickets, search for \"Stylo\" in your list of ticket fields and add P-CSAT to your ticket forms. You don't need to have it on a ticket form if you prefer to keep it off, but you can still see it in reports as it's always running in the background on every ticket.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 5,
+          "type": "Comment",
+          "body": "Is Stylo Predictive CSAT accurate?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        }
+      ],
+      "id": "generated-id-13"
+    },
+    {
+      "comments": [
+        {
+          "id": 1,
+          "type": "Comment",
+          "body": "Do I need engineers to help me set up Stylo?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "type": "Comment",
+          "body": "Nope! You just need a ZD admin to install and authenticate.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 3,
+          "type": "Comment",
+          "body": "That's great to hear. What if I want to schedule a demo",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 4,
+          "type": "Comment",
+          "body": "You can schedule a demo by clicking [here](https://www.askstylo.com/demo).",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 5,
+          "type": "Comment",
+          "body": "Perfect, I will do that. What other requirements are needed to set up Stylo?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        }
+      ],
+      "id": "generated-id-14"
+    },
+    {
+      "comments": [
+        {
+          "id": 1,
+          "type": "Comment",
+          "body": "Does Stylo work in Zendesk Messaging and Zendesk Chat?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "type": "Comment",
+          "body": "Yes, Stylo now works in Zendesk Messaging and Zendesk Chat. Agents can access Stylo's generated answers on any type of ticket.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 3,
+          "type": "Comment",
+          "body": "That's great! How do agents use Stylo in Zendesk Messaging and Zendesk Chat?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 4,
+          "type": "Comment",
+          "body": "To use Stylo in Zendesk Messaging and Zendesk Chat, agents simply click the Stylo Smile icon in the text editor, click \"Write Reply\", and Stylo will read the customer's question, search the Knowledge Center for the right answer, and generate a message that the agent can copy and paste into the text editor to send to the customer.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 5,
+          "type": "Comment",
+          "body": "Are there any specific requirements to use Stylo?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        }
+      ],
+      "id": "generated-id-15"
+    },
+    {
+      "comments": [
+        {
+          "id": 1,
+          "type": "Comment",
+          "body": "How can Stylo help in categorizing tickets?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "type": "Comment",
+          "body": "Stylo can help you categorize tickets by providing insight into what products people are asking about, what issues they're experiencing, and how often these issues are occurring. It uses existing categorization and views features within Zendesk to create a prioritized queue of tickets.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 3,
+          "type": "Comment",
+          "body": "What is the first step to set up the categorization feature in Stylo?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 4,
+          "type": "Comment",
+          "body": "The first step is to create a new field in the admin center of Stylo. Navigate to the Fields section and select \"add a field\".",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 5,
+          "type": "Comment",
+          "body": "Can multiple values be selected in the same field?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        }
+      ],
+      "id": "generated-id-16"
+    },
+    {
+      "comments": [
+        {
+          "id": 1,
+          "type": "Comment",
+          "body": "How can I install the Stylo App in Zendesk Support?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "type": "Comment",
+          "body": "To install the Stylo App in Zendesk Support, follow these steps: 1. Visit the Zendesk app marketplace by clicking [here](https://www.zendesk.com/marketplace/apps/support/849231/stylo-ai-assistant--chatgpt/?queryID=a0c20cc1d96727397d8ce345e4fdb9b2) or searching for \"Stylo\" in the Zendesk app marketplace. 2. Click on the app listing for Stylo AI Assistant + ChatGPT. 3. Log into your Zendesk account. 4. Click \"Install\" in the top right corner of the screen. 5. After the app is installed, click on the Stylo app icon in the bottom left and accept API access.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 3,
+          "type": "Comment",
+          "body": "What does accepting API access mean?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 4,
+          "type": "Comment",
+          "body": "Accepting API access allows the Stylo app to understand ticket messages and generate unique responses. It is necessary for the app to function properly.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 5,
+          "type": "Comment",
+          "body": "Where can I find the Stylo AI assistant after installing the app?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        }
+      ],
+      "id": "generated-id-17"
+    },
+    {
+      "comments": [
+        {
+          "id": 1,
+          "type": "Comment",
+          "body": "What industry is Stylo best suited for?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "type": "Comment",
+          "body": "Stylo's AI model is pre-trained to understand customer messages from any company size, domain, and industry. It is applicable for any size and type of customer support team that uses Zendesk Support today.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 3,
+          "type": "Comment",
+          "body": "Really? So there's no type of customer interaction that it can't comprehend?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 4,
+          "type": "Comment",
+          "body": "No, Stylo is trained on an incredibly diverse set of data and automatically adapts to changes in industry, products, people, and processes. No training or hand-holding required.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 5,
+          "type": "Comment",
+          "body": "Are there types of interactions that Stylo can't understand?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        }
+      ],
+      "id": "generated-id-18"
+    },
+    {
+      "comments": [
+        {
+          "id": 1,
+          "type": "Comment",
+          "body": "Do I need to train Stylo in any way?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "type": "Comment",
+          "body": "No, Stylo does not require any training or setup to start using it. It has been pre-trained on 27 terabytes of text, representing most of the internet. It continuously learns as new concepts, words, or linguistic oddities are added to the model. However, you have the ability to tailor and adjust Stylo's responses through the Knowledge Center and Brand Settings.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 3,
+          "type": "Comment",
+          "body": "So, can I customize Stylo's responses according to my brand's style and tone?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 4,
+          "type": "Comment",
+          "body": "Absolutely, you can tailor and adjust the responses of Stylo according to your brand's preferences using the Brand Settings. That way, it will be more aligned with your business.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 5,
+          "type": "Comment",
+          "body": "That sounds great! How can I access these Brand Settings to make the changes?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        }
+      ],
+      "id": "generated-id-19"
+    },
+    {
+      "comments": [
+        {
+          "id": 1,
+          "type": "Comment",
+          "body": "What data is stored by Stylo?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "type": "Comment",
+          "body": "We don’t store data about the customers. Only the ticket data with PII removed.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 3,
+          "type": "Comment",
+          "body": "Is there any way to access this ticket data?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 4,
+          "type": "Comment",
+          "body": "As customers' private data is our prime concern, ticket data with all personal identifiable information removed for security reasons. Only necessary parties within the company can access and monitor the data, but rest assured, your identity is well protected.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 5,
+          "type": "Comment",
+          "body": "But, how do you remove the PII from the tickets?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        }
+      ],
+      "id": "generated-id-20"
+    },
+    {
+      "comments": [
+        {
+          "id": 1,
+          "type": "Comment",
+          "body": "What is the importance of being specific when creating tags?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "type": "Comment",
+          "body": "Being specific when creating tags is important because it helps to clearly identify and categorize the issue or topic. A specific tag, such as \"Report Not Generating\", provides specific information about the problem and makes it easier for agents and automated systems to understand and address the issue. On the other hand, a vague or generic tag, like \"Product Bug\", may not provide enough context and can lead to confusion.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 3,
+          "type": "Comment",
+          "body": "Why is it important to be concise when creating tags?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 4,
+          "type": "Comment",
+          "body": "Being concise when creating tags is important because it helps to keep the tag simple and easy to understand. A concise tag, such as \"Report Not Generating\", uses fewer words and eliminates unnecessary filler words. This makes it easier for agents and automated systems to quickly identify and classify the issue. In contrast, a long and wordy tag, like \"The Report Does Not Appear To Be Generating Correctly\", can be confusing and may result in misinterpretation.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 5,
+          "type": "Comment",
+          "body": "Are there any recommended tags outside of the support taxonomy?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        }
+      ],
+      "id": "generated-id-21"
+    },
+    {
+      "comments": [
+        {
+          "id": 1,
+          "type": "Comment",
+          "body": "How much does Stylo cost?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "type": "Comment",
+          "body": "The price for Stylo is $10 per Agent, per month. An agent is any full Agent or administrator in your Zendesk Support instance.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 3,
+          "type": "Comment",
+          "body": "Do I have to pay for Light Agents?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 4,
+          "type": "Comment",
+          "body": "No, we don't charge you for Light Agents.",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              },
+              "to": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              }
+            }
+          }
+        },
+        {
+          "id": 5,
+          "type": "Comment",
+          "body": "Can I cancel or modify my subscription?",
+          "public": true,
+          "via": {
+            "channel": "Web",
+            "source": {
+              "from": {
+                "name": "Customer",
+                "email": "customer@example.com"
+              },
+              "to": {
+                "name": "Agent",
+                "email": "agent@supportOrg.com"
+              }
+            }
+          }
+        }
+      ],
+      "id": "generated-id-22"
+    }
+  ]
