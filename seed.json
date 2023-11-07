@@ -1004,7 +1004,7 @@
         {
           "id": 1,
           "type": "Comment",
-          "body": "How can I create a report that looks like the provided screenshot?",
+          "body": "How can I create a report in explore to see how Stylo is doing?",
           "public": true,
           "via": {
             "channel": "Web",
@@ -1023,7 +1023,7 @@
         {
           "id": 2,
           "type": "Comment",
-          "body": "To create a report that looks like the provided screenshot, follow the steps outlined in the article. The article provides detailed instructions on creating bullet charts, KPI charts, and table charts for various metrics. It also explains how to build custom metrics and configure the charts. Refer to the article for step-by-step instructions.",
+          "body": "To create an explore report you can follow this Zendesk guide [Reporting with custom fields](https://support.zendesk.com/hc/en-us/articles/4408824384538-Reporting-with-custom-fields) in combination with the Stylo custom fields outlined here [Stylo Scores](https://help.askstylo.com/hc/en-us/articles/12225812964379--Stylo-Scores-Dictionary-)",
           "public": true,
           "via": {
             "channel": "Web",
@@ -1061,7 +1061,7 @@
         {
           "id": 4,
           "type": "Comment",
-          "body": "The purpose of the Stylo Scores is to identify trends in customer frustration and take immediate actions to prevent customer churn. The provided article explains how to create bullet charts for scores, KPI charts, and table charts to measure different metrics. It also demonstrates how to use Zendesk Explore to build these charts and create custom calculated metrics. Refer to the article for more details.",
+          "body": "The purpose of the Stylo Scores is to identify trends in customer frustration and take immediate actions to prevent customer churn. The provided article explains how to create bullet charts for scores, KPI charts, and table charts to measure different metrics. It also demonstrates how to use Zendesk Explore to build these charts and create custom calculated metrics.",
           "public": true,
           "via": {
             "channel": "Web",
