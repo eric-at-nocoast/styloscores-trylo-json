@@ -1004,7 +1004,7 @@
         {
           "id": 1,
           "type": "Comment",
-          "body": "How can I create a report in explore to see how Stylo is doing?",
+          "body": "How can I create a report in Zendesk Explore to see how Stylo is doing?",
           "public": true,
           "via": {
             "channel": "Web",
@@ -1023,7 +1023,7 @@
         {
           "id": 2,
           "type": "Comment",
-          "body": "To create an explore report you can follow this Zendesk guide [Reporting with custom fields](https://support.zendesk.com/hc/en-us/articles/4408824384538-Reporting-with-custom-fields) in combination with the Stylo custom fields outlined here [Stylo Scores](https://help.askstylo.com/hc/en-us/articles/12225812964379--Stylo-Scores-Dictionary-)",
+          "body": "To create an Explore report you can follow this Zendesk guide [Reporting with custom fields](https://support.zendesk.com/hc/en-us/articles/4408824384538-Reporting-with-custom-fields) in combination with the Stylo custom fields outlined here [Stylo Scores](https://help.askstylo.com/hc/en-us/articles/12225812964379--Stylo-Scores-Dictionary-)",
           "public": true,
           "via": {
             "channel": "Web",
